@@ -1,6 +1,6 @@
 ##  Um apaixonado por tecnologia e as infinitas possibilidades proporcionadas.
 
-- 💼 Desenvolvedor FullStack ‖  Professor  ‖  Trader
+- 💼 T.I em formação ‖  Professor  ‖  Trader
 
 - ❤️ Aprender é a melhor estrutura de repetição do universo
 
