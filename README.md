@@ -1,6 +1,6 @@
 ##  Um apaixonado por tecnologia e as infinitas possibilidades proporcionadas.
 
-- 💼 Data scientist em formação ‖  Gestor de negócios  ‖  Professor
+- 💼 Data scientist em formação ‖  Consultor e analista de negócios  ‖  Professor
 
 - ❤️ Aprender é a melhor estrutura de repetição do universo
 
