@@ -1,6 +1,6 @@
 ##  Um apaixonado por tecnologia e as infinitas possibilidades proporcionadas.
 
-- 💼 Data scientist em formação ‖  Consultor e analista de negócios  ‖  Professor
+- 💼 Analista de dados ‖  Consultor e analista de negócios  ‖
 
 - ❤️ Aprender é a melhor estrutura de repetição do universo
 
@@ -8,16 +8,15 @@
 
 - 💬 Entre em contato pelo : [linkedin](https://www.linkedin.com/in/alan-proc/)  <!-- [instagram](https://www.instagram.com/alanproen/)  -->
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/AlanProc">
- <!-- <img height="150" src="https://github-readme-stats.vercel.app/api?username=AlanProc&show_icons=true&theme=radical&title_color=white&include_all_commits=true&count_private=true"/> -->
+ <!-- <img height="150" src="https://github-readme-stats.vercel.app/api?username=AlanProc&show_icons=true&theme=radical&title_color=white&include_all_commits=true&count_private=true"/>
+    --> 
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanProc&layout=compact&langs_count=7&theme=radical&title_color=white"/> 
-</div>
-<div align="center"><br>
-  <img align="center" alt=" alan-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <!-- <img align="center" alt=" alan-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt=" alan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt=" alan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt=" alan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt=" alan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </div>
   
