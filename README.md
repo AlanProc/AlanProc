@@ -1,8 +1,8 @@
-##  Um apaixonado por tecnologia e as infinitas possibilidades proporcionadas.
+##  Passionate about technology and the infinite possibilities provided.
 
-- 💼 Analista de dados ‖  Consultor e analista de negócios  ‖
+- 💼 Data Analyst ‖  Business Intelligence Developer  ‖
 
-- ❤️ Aprender é a melhor estrutura de repetição do universo
+- ❤️ Learning is the best repeating structure in the universe.
 
 - 📈 "don't trust, verify"
 
