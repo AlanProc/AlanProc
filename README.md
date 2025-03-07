@@ -6,7 +6,7 @@
 
 - 📈 "don't trust, verify"
 
-- 💬 Entre em contato pelo : [linkedin](https://www.linkedin.com/in/alan-proc/)  <!-- [instagram](https://www.instagram.com/alanproen/)  -->
+- 💬 Contact : [linkedin](https://www.linkedin.com/in/alan-proc/)  <!-- [instagram](https://www.instagram.com/alanproen/)  -->
 
 <div align="left">
   <a href="https://github.com/AlanProc">
